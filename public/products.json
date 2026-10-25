@@ -1,0 +1,606 @@
+[
+ {
+  "id": "ginger-glow-oil-cleanser",
+  "name": "Ginger Glow Oil Cleanser",
+  "cat": "cleanser",
+  "price": 1499,
+  "rating": 4.8,
+  "image": "/images/c1.jpg",
+  "best": true,
+  "skin": [
+   "Dry",
+   "Normal",
+   "Combination"
+  ],
+  "concerns": [
+   "Dullness",
+   "Dryness"
+  ],
+  "desc": "A melting oil cleanser with ginger and botanical extracts that dissolves sunscreen and makeup without stripping.",
+  "how": "Massage onto dry skin, add water to emulsify, rinse. Use as the first step of your evening double cleanse."
+ },
+ {
+  "id": "green-tangerine-jam-cleanser",
+  "name": "Green Tangerine Jam Cleanser",
+  "cat": "cleanser",
+  "price": 899,
+  "rating": 4.6,
+  "image": "/images/c2.jpg",
+  "skin": [
+   "Oily",
+   "Combination",
+   "Normal"
+  ],
+  "concerns": [
+   "Acne",
+   "Dullness"
+  ],
+  "desc": "A fresh, vitamin-rich gel cleanser with green tangerine that clears excess oil and leaves skin bright.",
+  "how": "Lather a small amount with water, massage for 30 seconds, rinse well. Morning and night."
+ },
+ {
+  "id": "ginseng-foam-face-wash",
+  "name": "Ginseng Hydrating Foam Wash",
+  "cat": "cleanser",
+  "price": 799,
+  "rating": 4.7,
+  "image": "/images/c3.jpg",
+  "skin": [
+   "Sensitive",
+   "Dry",
+   "Normal"
+  ],
+  "concerns": [
+   "Dryness",
+   "Sensitivity"
+  ],
+  "desc": "A soft pump foam with ginseng that cleans gently and keeps the moisture barrier comfortable.",
+  "how": "Pump one or two times onto damp skin, massage, rinse. Morning and night."
+ },
+ {
+  "id": "peach-niacinamide-serum",
+  "name": "Peach Niacinamide Serum",
+  "cat": "serum",
+  "price": 1299,
+  "rating": 4.8,
+  "image": "/images/se1.jpg",
+  "best": true,
+  "skin": [
+   "Oily",
+   "Combination",
+   "Normal"
+  ],
+  "concerns": [
+   "Acne",
+   "Pigmentation",
+   "Dullness"
+  ],
+  "desc": "A lightweight peach-infused serum with niacinamide to refine pores, even tone and control shine.",
+  "how": "Apply 3-4 drops on clean skin before moisturiser. Morning and night. Always follow with SPF in the day."
+ },
+ {
+  "id": "berry-repose-serum",
+  "name": "Berry Repose Soothing Serum",
+  "cat": "serum",
+  "price": 1699,
+  "rating": 4.7,
+  "image": "/images/se2.jpg",
+  "skin": [
+   "Sensitive",
+   "Dry",
+   "Normal"
+  ],
+  "concerns": [
+   "Sensitivity",
+   "Fine lines",
+   "Dryness"
+  ],
+  "desc": "A cooling, moisturising serum that calms visible redness and softens the look of fine lines.",
+  "how": "Smooth a few drops over face and neck after toner. Pat in gently."
+ },
+ {
+  "id": "teal-renew-cream",
+  "name": "Teal Renew Night Cream",
+  "cat": "moisturiser",
+  "price": 2199,
+  "rating": 4.9,
+  "image": "/images/mo1.png",
+  "best": true,
+  "skin": [
+   "Dry",
+   "Normal"
+  ],
+  "concerns": [
+   "Fine lines",
+   "Dryness"
+  ],
+  "desc": "A rich, cushiony renewal cream that plumps and restores skin while you sleep.",
+  "how": "Warm a pea-sized amount between fingers and press over face and neck at night."
+ },
+ {
+  "id": "blush-barrier-cream",
+  "name": "Blush Barrier Cream",
+  "cat": "moisturiser",
+  "price": 1899,
+  "rating": 4.7,
+  "image": "/images/mo2.jpg",
+  "skin": [
+   "Sensitive",
+   "Dry",
+   "Combination"
+  ],
+  "concerns": [
+   "Sensitivity",
+   "Dryness"
+  ],
+  "desc": "A soft pink whipped moisturiser that strengthens the skin barrier and locks in hydration all day.",
+  "how": "Apply to face morning and night after serum."
+ },
+ {
+  "id": "sunday-mineral-spf40",
+  "name": "Sunday Mineral Sunscreen SPF 40",
+  "cat": "spf",
+  "price": 999,
+  "rating": 4.7,
+  "image": "/images/sunscreen1.jpg",
+  "best": true,
+  "skin": [
+   "Sensitive",
+   "Normal",
+   "Combination",
+   "Dry"
+  ],
+  "concerns": [
+   "Sun protection",
+   "Pigmentation"
+  ],
+  "desc": "A daily mineral sunscreen with broad-spectrum SPF 40 that sits light on the skin.",
+  "how": "Apply two finger-lengths to face and neck as the last step of your morning routine. Reapply every 2-3 hours outdoors."
+ },
+ {
+  "id": "coconut-classic-spf50",
+  "name": "Coconut Classic SPF 50 Lotion",
+  "cat": "spf",
+  "price": 1199,
+  "rating": 4.5,
+  "image": "/images/sunscreen2.jpeg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Combination"
+  ],
+  "concerns": [
+   "Sun protection"
+  ],
+  "desc": "A water-resistant broad-spectrum SPF 50 lotion with coconut and aloe vera for beach and body days.",
+  "how": "Apply generously 15 minutes before sun exposure and reapply after swimming."
+ },
+ {
+  "id": "peptide-lip-tint-trio",
+  "name": "Peptide Lip Tint Trio",
+  "cat": "lip-balm",
+  "price": 1299,
+  "rating": 4.8,
+  "image": "/images/lip1.jpg",
+  "best": true,
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dryness"
+  ],
+  "desc": "Three sheer, buildable tints with peptides that condition lips while adding colour."
+ },
+ {
+  "id": "sunny-peptide-lip-balm",
+  "name": "Sunny Peptide Lip Balm",
+  "cat": "lip-balm",
+  "price": 599,
+  "rating": 4.7,
+  "image": "/images/lip2.jpg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dryness"
+  ],
+  "desc": "A glossy, softening lip treatment in a squeezable tube for everyday comfort."
+ },
+ {
+  "id": "lavender-caviar-sheet-mask",
+  "name": "Lavender Caviar Sheet Mask",
+  "cat": "mask",
+  "price": 399,
+  "rating": 4.6,
+  "image": "/images/m1.jpg",
+  "skin": [
+   "Dry",
+   "Normal",
+   "Sensitive"
+  ],
+  "concerns": [
+   "Fine lines",
+   "Dullness",
+   "Dryness"
+  ],
+  "desc": "A deeply nourishing sheet mask that revitalises tired, dull skin in 15 minutes."
+ },
+ {
+  "id": "fruit-series-mask-set",
+  "name": "Fruit Series Hydrating Mask Set",
+  "cat": "mask",
+  "price": 499,
+  "rating": 4.5,
+  "image": "/images/m2.jpg",
+  "skin": [
+   "Normal",
+   "Combination",
+   "Oily",
+   "Dry"
+  ],
+  "concerns": [
+   "Dullness",
+   "Dryness"
+  ],
+  "desc": "Playful fruit-extract sheet masks — pomegranate, honey and more — for a weekly hydration boost."
+ },
+ {
+  "id": "pineapple-glow-body-scrub",
+  "name": "Pineapple Glow Body Scrub",
+  "cat": "scrub",
+  "price": 899,
+  "rating": 4.6,
+  "image": "/images/s1.jpg",
+  "skin": [
+   "Normal",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dullness"
+  ],
+  "desc": "A juicy exfoliating scrub with pineapple that buffs away dead skin for a smooth glow."
+ },
+ {
+  "id": "peach-sugar-body-scrub",
+  "name": "Peach Sugar Body Scrub",
+  "cat": "scrub",
+  "price": 999,
+  "rating": 4.7,
+  "image": "/images/s2.jpg",
+  "best": true,
+  "skin": [
+   "Dry",
+   "Normal",
+   "Sensitive"
+  ],
+  "concerns": [
+   "Dullness",
+   "Dryness"
+  ],
+  "desc": "A creamy sugar scrub with peach that exfoliates while leaving skin soft and nourished."
+ },
+ {
+  "id": "lemon-enzyme-powder-cleanser",
+  "name": "Lemon Enzyme Powder Cleanser",
+  "cat": "cleanser",
+  "price": 999,
+  "rating": 4.6,
+  "image": "/images/c4.jpg",
+  "skin": [
+   "Oily",
+   "Combination",
+   "Normal"
+  ],
+  "concerns": [
+   "Dullness",
+   "Acne"
+  ],
+  "desc": "A gentle enzyme powder with lemon peel and papain that lifts dead skin and brightens.",
+  "how": "Mix a pea-sized amount with water in wet hands, lather and massage for 30 seconds, then rinse."
+ },
+ {
+  "id": "purifying-gel-cleanser",
+  "name": "Purifying Foaming Gel Cleanser",
+  "cat": "cleanser",
+  "price": 1099,
+  "rating": 4.7,
+  "image": "/images/c5.jpg",
+  "skin": [
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Acne"
+  ],
+  "desc": "A clear foaming gel that removes excess oil and impurities without leaving skin tight.",
+  "how": "Massage onto wet skin, rinse well. Morning and night."
+ },
+ {
+  "id": "centella-calm-toner",
+  "name": "Centella Calm Toner",
+  "cat": "toner",
+  "price": 1199,
+  "rating": 4.7,
+  "image": "/images/t1.jpg",
+  "skin": [
+   "Sensitive",
+   "Oily",
+   "Combination",
+   "Normal"
+  ],
+  "concerns": [
+   "Sensitivity",
+   "Acne",
+   "Dullness"
+  ],
+  "desc": "A soothing centella and green tea toner that purifies and calms visible redness.",
+  "how": "Apply to a cotton pad or press into skin with clean hands after cleansing.",
+  "best": true
+ },
+ {
+  "id": "orange-radiance-essence-toner",
+  "name": "Orange Radiance Essence Toner",
+  "cat": "toner",
+  "price": 1399,
+  "rating": 4.8,
+  "image": "/images/t2.jpg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Combination"
+  ],
+  "concerns": [
+   "Dullness",
+   "Dryness",
+   "Fine lines"
+  ],
+  "desc": "A hydrating essence toner with peptides, niacinamide and hyaluronate for a lit-from-within glow.",
+  "how": "Pat 2-3 layers into clean skin before serum."
+ },
+ {
+  "id": "cherry-peptide-lip-tint",
+  "name": "Cherry Peptide Lip Tint",
+  "cat": "lip-balm",
+  "price": 699,
+  "rating": 4.7,
+  "image": "/images/lip3.jpg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dryness"
+  ],
+  "desc": "A juicy red peptide lip tint that conditions while it colours.",
+  "how": "Swipe on lips whenever you need colour and comfort."
+ },
+ {
+  "id": "blueberry-glow-lip-balm",
+  "name": "Blueberry Glow Lip Balm",
+  "cat": "lip-balm",
+  "price": 649,
+  "rating": 4.8,
+  "image": "/images/lip4.jpg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dryness"
+  ],
+  "desc": "A glossy blueberry lip balm that leaves lips soft and bouncy.",
+  "how": "Apply throughout the day.",
+  "best": true
+ },
+ {
+  "id": "honey-glow-lip-oil",
+  "name": "Honey Glow Lip Oil",
+  "cat": "lip-balm",
+  "price": 799,
+  "rating": 4.7,
+  "image": "/images/lip5.jpg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dryness"
+  ],
+  "desc": "A shimmering honey-infused lip oil for a plush, glassy finish.",
+  "how": "Glide over bare lips or over lip colour."
+ },
+ {
+  "id": "green-tea-cica-gel-mask",
+  "name": "Green Tea Cica Gel Mask",
+  "cat": "mask",
+  "price": 449,
+  "rating": 4.6,
+  "image": "/images/m3.jpg",
+  "skin": [
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Sensitivity",
+   "Acne",
+   "Dryness"
+  ],
+  "desc": "A hydrogel collagen mask with green tea and cica that soothes and cares for pores.",
+  "how": "Apply on clean skin for 20 minutes, remove and pat in the essence."
+ },
+ {
+  "id": "pink-vanilla-lip-mask",
+  "name": "Pink Vanilla Lip Sleeping Mask",
+  "cat": "mask",
+  "price": 1099,
+  "rating": 4.8,
+  "image": "/images/m4.jpeg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dryness"
+  ],
+  "desc": "An overnight lip mask that melts into lips for soft, smooth mornings.",
+  "how": "Apply a thick layer before bed and wipe off in the morning."
+ },
+ {
+  "id": "blue-clay-mask",
+  "name": "Blue Clay Purifying Mask",
+  "cat": "mask",
+  "price": 1499,
+  "rating": 4.7,
+  "image": "/images/m5.jpeg",
+  "skin": [
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Acne",
+   "Dullness"
+  ],
+  "desc": "A creamy blue clay mask that purifies pores and mattifies oily skin.",
+  "how": "Apply an even layer, leave for 10 minutes, rinse with lukewarm water. Use 1-2 times a week."
+ },
+ {
+  "id": "cotton-candy-lip-mask",
+  "name": "Cotton Candy Lip Sleeping Mask",
+  "cat": "mask",
+  "price": 1099,
+  "rating": 4.8,
+  "image": "/images/m6.jpeg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dryness"
+  ],
+  "desc": "A cotton-candy scented overnight lip mask for plump, hydrated lips.",
+  "how": "Apply before bed as the last step of your routine."
+ },
+ {
+  "id": "rosy-glow-cream",
+  "name": "Rosy Glow Cream",
+  "cat": "moisturiser",
+  "price": 1799,
+  "rating": 4.7,
+  "image": "/images/mo3.jpg",
+  "skin": [
+   "Dry",
+   "Normal"
+  ],
+  "concerns": [
+   "Dullness",
+   "Dryness"
+  ],
+  "desc": "A luminous cream in a berry jar that hydrates and adds a soft glow.",
+  "how": "Smooth over face and neck morning and night."
+ },
+ {
+  "id": "barely-there-moisturiser",
+  "name": "Barely There Lightweight Moisturiser",
+  "cat": "moisturiser",
+  "price": 1299,
+  "rating": 4.7,
+  "image": "/images/mo4.jpg",
+  "skin": [
+   "Oily",
+   "Combination",
+   "Normal"
+  ],
+  "concerns": [
+   "Acne",
+   "Dullness"
+  ],
+  "desc": "A weightless pump moisturiser that hydrates without feeling heavy or greasy.",
+  "how": "One or two pumps on clean skin, morning and night."
+ },
+ {
+  "id": "grape-seed-body-polish",
+  "name": "Grape Seed Body Polish",
+  "cat": "scrub",
+  "price": 1099,
+  "rating": 4.6,
+  "image": "/images/s3.jpg",
+  "skin": [
+   "Normal",
+   "Dry"
+  ],
+  "concerns": [
+   "Dullness",
+   "Dryness"
+  ],
+  "desc": "A soft polishing body scrub with grape seed that smooths and softens skin.",
+  "how": "Massage onto damp skin in circular motions, then rinse."
+ },
+ {
+  "id": "vitamin-c-brightening-serum",
+  "name": "Vitamin C Brightening Serum",
+  "cat": "serum",
+  "price": 1499,
+  "rating": 4.8,
+  "image": "/images/se3.jpg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Combination"
+  ],
+  "concerns": [
+   "Dullness",
+   "Pigmentation"
+  ],
+  "desc": "A multi-vitamin serum with vitamin C that brightens and evens skin tone.",
+  "how": "Apply 3-4 drops in the morning before moisturiser and SPF.",
+  "best": true
+ },
+ {
+  "id": "rose-quartz-roller-gua-sha-set",
+  "name": "Rose Quartz Roller & Gua Sha Set",
+  "cat": "tools",
+  "price": 1299,
+  "rating": 4.8,
+  "image": "/images/tool1.jpg",
+  "skin": [
+   "Normal",
+   "Dry",
+   "Sensitive",
+   "Oily",
+   "Combination"
+  ],
+  "concerns": [
+   "Dullness",
+   "Fine lines",
+   "Sensitivity"
+  ],
+  "desc": "A cooling rose quartz face roller and heart-shaped gua sha for sculpting massage and a calmer, glowier complexion.",
+  "how": "Apply serum or oil, then roll or glide upward and outward over face and neck for 3-5 minutes.",
+  "best": true
+ }
+]
